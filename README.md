@@ -7,7 +7,7 @@
 Putty密匙登录
 	1、
   Putty下载地址:https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
-  Putty下载并安装好之后,安装目录内容如下:
+  Putty下载并安装好之后,安装目录内容如下:https://github.com/gitking/TencentCloudDemo/blob/master/images/PuttyDir.png
   
   2、
   双击【puttygen.exe】，打开 PuTTy Key 客户端。
