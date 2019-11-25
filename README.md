@@ -5,7 +5,7 @@
 
 简体中文 | [English](./README.EN.md)
 
-##Putty密匙登录
+## Putty密匙登录
 	1、
   Putty下载地址:https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
   Putty下载并安装好之后,安装目录内容如下:![Putty安装目录](https://github.com/gitking/TencentCloudDemo/blob/master/images/PuttyDir.png)
@@ -26,7 +26,7 @@ GitHub的readme.md文件支持,html语法和markdown语法,想学习的话,随�
 
 
 
-##看Readme.md文件的源码:
+## 看Readme.md文件的源码:
 看源码第一步
 ![看源码步骤01](https://github.com/gitking/TencentCloudDemo/blob/master/images/codesource_01.png)
 
